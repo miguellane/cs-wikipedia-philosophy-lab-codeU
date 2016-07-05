@@ -16,10 +16,10 @@ public class WikiPhilosophy {
 
 		int ignore = 0;
 		List<String> urlList = new ArrayList<String>();
-		String url = "https://en.wikipedia.org/wiki/Java_(programming_language)";
+//		String url = "https://en.wikipedia.org/wiki/Java_(programming_language)";
 //		String url = "https://en.wikipedia.org/wiki/Programming_language";
 //		String url = "https://en.wikipedia.org/wiki/Formal_language";
-//		String url = "https://en.wikipedia.org/wiki/Mathematics";
+		String url = "https://en.wikipedia.org/wiki/Mathematics";
 //		String url = "https://en.wikipedia.org/wiki/Quantity";
 //		String url = "https://en.wikipedia.org/wiki/Property_%28philosophy%29";
 //		String url = "https://en.wikipedia.org/wiki/Philosophy";
